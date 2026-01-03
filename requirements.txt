@@ -8,3 +8,4 @@ persim
 scikit-learn
 torch
 torchvision
+tensorflow
